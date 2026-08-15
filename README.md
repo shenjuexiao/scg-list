@@ -6,6 +6,8 @@
 
 💡 同步更新：[github.com/shenjuexiao/SCG-list](https://github.com/shenjuexiao/SCG-list#scg-list)
 
+🔍 更多查找：[jamstack.org](https://jamstack.org/generators)
+
 ## 🍎 A
 
 ### Amazon CodeWhisperer
@@ -20,6 +22,7 @@
 - 项目地址：[github.com/withastro/astro](https://github.com/withastro/astro)
 - Demo：[astro.build/showcase](https://astro.build/showcase)
 
+![SCG GitHub withastro astro](https://cdn.jsdelivr.net/gh/shenjuexiao/shenjuexiao@main/Github_png/SCG_GitHub_withastro_astro.png)
 
 ## 🐈 C
 
@@ -29,7 +32,6 @@
 - 项目地址：商业软件
 - Demo：[codesmithtools.com/generator](https://www.codesmithtools.com/generator)
 
-
 ## 🐕 D
 
 ### Docusaurus
@@ -38,6 +40,7 @@
 - 项目地址：[github.com/facebook/docusaurus](https://github.com/facebook/docusaurus)
 - Demo：[docusaurus.io/showcase](https://docusaurus.io/showcase)
 
+![SCG GitHub facebook docusaurus](https://cdn.jsdelivr.net/gh/shenjuexiao/shenjuexiao@main/Github_png/SCG_GitHub_facebook_docusaurus.png)
 
 ## 🐘 E
 
@@ -47,7 +50,6 @@
 - 项目地址：[github.com/excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)
 - Demo：[excalidraw.com](https://excalidraw.com) (可直接在线使用)
 
-
 ## 🐟 F
 
 ### Figma to Code (AI插件)
@@ -55,7 +57,6 @@
 - 官方网站：[figma.com/community/plugins](https://www.figma.com/community/plugins)
 - 项目地址：搜索Figma to HTML等关键词
 - Demo：[figma.com/community/plugins/1024120532071138593](https://www.figma.com/community/plugins/1024120532071138593)
-
 
 ## 🐐 G
 
@@ -70,7 +71,6 @@
 - 官方网站：[github.com/features/copilot](https://github.com/features/copilot)
 - 项目地址：商业产品
 - Demo：[github.com/features/copilot](https://github.com/features/copilot)
-
 
 ## 🐴 H
 
@@ -90,7 +90,6 @@
 
 ![github.com/gohugoio/hugo](https://cdn.jsdelivr.net/gh/shenjuexiao/shenjuexiao@main/Github_png/SCG_GitHub_gohugoio_hugo.png)
 
-
 ## 🃏 J
 
 ### Jekyll
@@ -98,7 +97,6 @@
 - 官方网站：[jekyllrb.com](https://jekyllrb.com)
 - 项目地址：[github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
 - Demo：[jekyllrb.com/showcase](https://jekyllrb.com/showcase)
-
 
 ## 🥜 N
 
@@ -108,7 +106,6 @@
 - 项目地址：[github.com/vercel/next.js](https://github.com/vercel/next.js)
 - Demo：[nextjs.org/showcase](https://nextjs.org/showcase)
 
-
 ## 🦉 O
 
 ### OpenAPI Generator
@@ -116,7 +113,6 @@
 - 官方网站：[openapi-generator.tech](https://openapi-generator.tech)
 - 项目地址：[github.com/OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator)
 - Demo：[openapi-generator.tech/docs/online](https://openapi-generator.tech/docs/online)
-
 
 ## 🐧 P
 
@@ -126,7 +122,6 @@
 - 项目地址：[github.com/getpelican/pelican](https://github.com/getpelican/pelican)
 - Demo：[github.com/getpelican/pelican/wiki/Powered-by-Pelican](https://github.com/getpelican/pelican/wiki/Powered-by-Pelican)
 
-
 ## 🐍 S
 
 ### Swagger Codegen
@@ -134,7 +129,6 @@
 - 官方网站：[swagger.io/tools/swagger-codegen](https://swagger.io/tools/swagger-codegen)
 - 项目地址：[github.com/swagger-api/swagger-codegen](https://github.com/swagger-api/swagger-codegen)
 - Demo：[generator.swagger.io](https://generator.swagger.io)
-
 
 ## 🐯 T
 
@@ -150,7 +144,6 @@
 - 项目地址：[github.com/tldraw/tldraw](https://github.com/tldraw/tldraw)
 - Demo：[examples.tldraw.com](https://examples.tldraw.com)
 
-
 ## 🦄 V
 
 ### v0.dev (Vercel出品)
@@ -165,6 +158,7 @@
 - 项目地址：[github.com/vuejs/vuepress](https://github.com/vuejs/vuepress)
 - Demo：[vuepress.vuejs.org/guide](https://vuepress.vuejs.org/guide)
 
+![SCG GitHub vuejs vuepress](https://cdn.jsdelivr.net/gh/shenjuexiao/shenjuexiao@main/Github_png/SCG_GitHub_vuejs_vuepress.png)
 
 ## 🦓 Z
 
