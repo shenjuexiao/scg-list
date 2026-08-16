@@ -44,6 +44,16 @@
 
 ## 🐘 E
 
+### Eleventy
+
+技术栈：Node.js
+官方网站：[11ty.dev](https://www.11ty.dev)
+项目地址：[github.com/11ty/eleventy](https://github.com/11ty/eleventy)
+模板演示：[eleventy-simple.pages.dev](https://eleventy-simple.pages.dev)
+插件演示： [fastcomments.com/commenting-system-for-11ty](https://fastcomments.com/commenting-system-for-11ty)
+
+![SCG GitHub 11ty/buildawesome](https://cdn.jsdelivr.net/gh/shenjuexiao/shenjuexiao@main/Github_png/SCG_GitHub_11ty_buildawesome.png)
+
 ### Excalidraw (手绘风格 + AI)
 - 技术栈：TypeScript，React
 - 官方网站：[excalidraw.com](https://excalidraw.com)
