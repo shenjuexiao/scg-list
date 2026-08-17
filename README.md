@@ -22,7 +22,7 @@
 - 项目地址：[github.com/withastro/astro](https://github.com/withastro/astro)
 - Demo：[astro.build/showcase](https://astro.build/showcase)
 
-![SCG GitHub withastro astro](https://cdn.jsdelivr.net/gh/shenjuexiao/shenjuexiao@main/Github_png/SCG_GitHub_withastro_astro.png)
+![SCG GitHub withastro astro](https://cdn.jsdelivr.net/gh/shenjuexiao/shenjuexiao@main/GitHub_png/SCG_GitHub_withastro_astro.png)
 
 ## 🐈 C
 
@@ -40,7 +40,7 @@
 - 项目地址：[github.com/facebook/docusaurus](https://github.com/facebook/docusaurus)
 - Demo：[docusaurus.io/showcase](https://docusaurus.io/showcase)
 
-![SCG GitHub facebook docusaurus](https://cdn.jsdelivr.net/gh/shenjuexiao/shenjuexiao@main/Github_png/SCG_GitHub_facebook_docusaurus.png)
+![SCG GitHub facebook docusaurus](https://cdn.jsdelivr.net/gh/shenjuexiao/shenjuexiao@main/GitHub_png/SCG_GitHub_facebook_docusaurus.png)
 
 ## 🐘 E
 
@@ -52,7 +52,7 @@
 模板演示：[eleventy-simple.pages.dev](https://eleventy-simple.pages.dev)
 插件演示： [fastcomments.com/commenting-system-for-11ty](https://fastcomments.com/commenting-system-for-11ty)
 
-![SCG GitHub 11ty/buildawesome](https://cdn.jsdelivr.net/gh/shenjuexiao/shenjuexiao@main/Github_png/SCG_GitHub_11ty_buildawesome.png)
+![SCG GitHub 11ty/buildawesome](https://cdn.jsdelivr.net/gh/shenjuexiao/shenjuexiao@main/GitHub_png/SCG_GitHub_11ty_buildawesome.png)
 
 ### Excalidraw (手绘风格 + AI)
 - 技术栈：TypeScript，React
@@ -90,7 +90,7 @@
 - 项目地址：[github.com/hexojs/hexo](https://github.com/hexojs/hexo)
 - Demo：[hexo.io/showcase](https://hexo.io/showcase)
 
-![github.com/hexojs/hexo](https://cdn.jsdelivr.net/gh/shenjuexiao/shenjuexiao@main/Github_png/SCG_GitHub_hexojs_hexo.png)
+![github.com/hexojs/hexo](https://cdn.jsdelivr.net/gh/shenjuexiao/shenjuexiao@main/GitHub_png/SCG_GitHub_hexojs_hexo.png)
 
 ### Hugo
 - 技术栈：Go
@@ -98,7 +98,7 @@
 - 项目地址：[github.com/gohugoio/hugo](https://github.com/gohugoio/hugo)
 - Demo：[gohugo.io/showcase](https://gohugo.io/showcase)
 
-![github.com/gohugoio/hugo](https://cdn.jsdelivr.net/gh/shenjuexiao/shenjuexiao@main/Github_png/SCG_GitHub_gohugoio_hugo.png)
+![github.com/gohugoio/hugo](https://cdn.jsdelivr.net/gh/shenjuexiao/shenjuexiao@main/GitHub_png/SCG_GitHub_gohugoio_hugo.png)
 
 ## 🃏 J
 
@@ -168,7 +168,7 @@
 - 项目地址：[github.com/vuejs/vuepress](https://github.com/vuejs/vuepress)
 - Demo：[vuepress.vuejs.org/guide](https://vuepress.vuejs.org/guide)
 
-![SCG GitHub vuejs vuepress](https://cdn.jsdelivr.net/gh/shenjuexiao/shenjuexiao@main/Github_png/SCG_GitHub_vuejs_vuepress.png)
+![SCG GitHub vuejs vuepress](https://cdn.jsdelivr.net/gh/shenjuexiao/shenjuexiao@main/GitHub_png/SCG_GitHub_vuejs_vuepress.png)
 
 ## 🦓 Z
 
@@ -178,5 +178,5 @@
 - 项目地址：[github.com/getzola/zola](https://github.com/getzola/zola)
 - Demo：[getzola.org/documentation](https://www.getzola.org/documentation)
 
-![SCG GitHub getzola zola](https://cdn.jsdelivr.net/gh/shenjuexiao/shenjuexiao@main/Github_png/SCG_GitHub_getzola_zola.png)
+![SCG GitHub getzola zola](https://cdn.jsdelivr.net/gh/shenjuexiao/shenjuexiao@main/GitHub_png/SCG_GitHub_getzola_zola.png)
 
