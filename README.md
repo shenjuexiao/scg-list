@@ -1,6 +1,6 @@
 # 静态代码生成器（SCG）列表
 
-![SCG (Static Code Generation) List](https://cdn.jsdelivr.net/gh/shenjuexiao/shenjuexiao@main/GitHub_png/SCG_List_1800.png)
+![SCG (Static Code Generation) List](https://cdn.jsdelivr.net/gh/shenjuexiao/shenjuexiao@main/GitHub_png/SCG_Static_Code_Generation_List_1800.png)
 
 ## 📝 持续更新
 
