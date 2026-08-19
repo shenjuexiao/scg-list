@@ -1,5 +1,7 @@
 # 静态代码生成器（SCG）列表
 
+![SCG (Static Code Generation) List](https://cdn.jsdelivr.net/gh/shenjuexiao/shenjuexiao@main/GitHub_png/SCG_List_1800.png)
+
 ## 📝 持续更新
 
 静态代码生成在当前语境下通常指向两类工具：一是用于生成网站HTML的静态站点生成器（Static Site Generator，SSG），例如Hugo、Gatsby；二是更广义的代码生成器（Code Generator），例如T4、CodeSmith，用于生成各类编程语言的源代码。本列表主要聚焦于前者，并补充了一些其他类型的代表。
