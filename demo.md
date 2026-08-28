@@ -1,22 +1,62 @@
 # SCG Demo
-## [amazoncodewhisperer.shenjuexiao.com](https://amazoncodewhisperer.shenjuexiao.com)
-## [astro.shenjuexiao.com](https://astro.shenjuexiao.com)
-## [codesmith.shenjuexiao.com](https://codesmith.shenjuexiao.com)
-## [docusaurus.shenjuexiao.com](https://docusaurus.shenjuexiao.com)
-## [eleventy.shenjuexiao.com](https://eleventy.shenjuexiao.com)
-## [excalidraw.shenjuexiao.com](https://excalidraw.shenjuexiao.com)
-## [figmatocode.shenjuexiao.com](https://figmatocode.shenjuexiao.com)
-## [gatsby.shenjuexiao.com](https://gatsby.shenjuexiao.com)
-## [githubcopilot.shenjuexiao.com](https://githubcopilot.shenjuexiao.com)
-## [hexo.shenjuexiao.com](https://hexo.shenjuexiao.com)
-## [hugo.shenjuexiao.com](https://hugo.shenjuexiao.com)
-## [jekyll.shenjuexiao.com](https://jekyll.shenjuexiao.com)
-## [nextjs.shenjuexiao.com](https://nextjs.shenjuexiao.com)
-## [openapigenerator.shenjuexiao.com](https://openapigenerator.shenjuexiao.com)
-## [pelican.shenjuexiao.com](https://pelican.shenjuexiao.com)
-## [swaggercodegen.shenjuexiao.com](https://swaggercodegen.shenjuexiao.com)
-## [t4.shenjuexiao.com](https://t4.shenjuexiao.com)
-## [tldraw.shenjuexiao.com](https://tldraw.shenjuexiao.com)
-## [v0dev.shenjuexiao.com](https://v0dev.shenjuexiao.com)
-## [vuepress.shenjuexiao.com](https://vuepress.shenjuexiao.com)
-## [zola.shenjuexiao.com](https://zola.shenjuexiao.com)
+
+## Astro
+- [Astro](https://astro.shenjuexiao.com)
+- [astro-dist](https://astro-dist.shenjuexiao.com)
+- [astro-blog](https://astro-blog.shenjuexiao.com)
+
+## Eleventy
+- [Eleventy](https://eleventy.shenjuexiao.com)
+- [eleventy-blog](https://eleventy-blog.shenjuexiao.com)
+- [TestGHCMS ](https://testghcms.shenjuexiao.com)
+
+##GitHub Issues
+- [Gitblog](https://gitblog.shenjuexiao.com)
+- [Gmeek](https://gmeek.shenjuexiao.com)
+- [gmeek-docs](https://gmeek-docs.shenjuexiao.com)
+
+##Go
+- [Hugo](https://hugo.shenjuexiao.com)
+- [hugo-public](https://hugo-public.shenjuexiao.com)
+- [Isite](https://isite.shenjuexiao.com)
+
+## Next.js
+- [Giscafer](https://giscafer.shenjuexiao.com)
+- [Next.js](https://nextjs.shenjuexiao.com)
+- [nextjs-out](https://nextjs-out.shenjuexiao.com)
+- [Next.js](https://nextjs-blog.shenjuexiao.com)
+
+## Node.js
+- [docmd](https://docmd.shenjuexiao.com)
+- [docsify](https://docsify.shenjuexiao.com)
+- [Hexo](https://hexo.shenjuexiao.com)
+- [hexo-public](https://hexo-public.shenjuexiao.com)
+- [issues-hexo-public](https://issues.shenjuexiao.com)
+
+## Nuxt
+- [Nuxt](https://nuxt.shenjuexiao.com)
+- [Docus](https://docus.shenjuexiao.com)
+- [docus-public](https://docus.shenjuexiao.com)
+
+## Python
+- [Bengal](https://bengal.shenjuexiao.com)
+- [MkDocs](https://mkdocs.shenjuexiao.com)
+- [mkdocs-site](https://mkdocs-site.shenjuexiao.com)
+- [Nikola](https://nikola.shenjuexiao.com)
+
+## React
+- [Docusaurus](https://docusaurus.shenjuexiao.com)
+
+## Rust
+ - [Zola](https://zola.shenjuexiao.com)
+
+## Svelte
+- [Svelte](https://svelte.shenjuexiao.com)
+- [SvelteKit](https://sveltekit.shenjuexiao.com)
+
+## Vue
+- [Valaxy](https://valaxy.shenjuexiao.com)
+- [valaxy-dist](https://valaxy-dist.shenjuexiao.com)
+- [VitePress](https://vitepress.shenjuexiao.com)
+- [VitePress-dist](https://vitepress-dist.shenjuexiao.com)
+- [VuePress](https://vuepress.shenjuexiao.com)
