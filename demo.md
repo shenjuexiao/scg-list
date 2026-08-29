@@ -43,6 +43,8 @@
 - [MkDocs](https://mkdocs.shenjuexiao.com)
 - [mkdocs-site](https://mkdocs-site.shenjuexiao.com)
 - [Nikola](https://nikola.shenjuexiao.com)
+- [nikola-output](https://nikola-output.shenjuexiao.com)
+- [Pelican](https://pelican.shenjuexiao.com)
 
 ## React
 - [Docusaurus](https://docusaurus.shenjuexiao.com)
@@ -51,7 +53,6 @@
  - [Zola](https://zola.shenjuexiao.com)
 
 ## Svelte
-- [Svelte](https://svelte.shenjuexiao.com)
 - [SvelteKit](https://sveltekit.shenjuexiao.com)
 
 ## Vue
