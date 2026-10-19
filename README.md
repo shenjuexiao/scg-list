@@ -6,7 +6,7 @@
 
 静态代码生成在当前语境下通常指向两类工具：一是用于生成网站HTML的静态站点生成器（Static Site Generator，SSG），例如Hugo、Gatsby；二是更广义的代码生成器（Code Generator），例如T4、CodeSmith，用于生成各类编程语言的源代码。本列表主要聚焦于前者，并补充了一些其他类型的代表。
 
-💡 同步更新：[github.com/shenjuexiao/SCG-list](https://github.com/shenjuexiao/SCG-list#scg-list)
+💡 同步更新：[github.com/shenjuexiao/scg-list](https://github.com/shenjuexiao/scg-list#scg-list)
 
 🔍 更多查找：[jamstack.org](https://jamstack.org/generators)
 
@@ -24,15 +24,15 @@
 - 项目地址：[github.com/withastro/astro](https://github.com/withastro/astro)
 - Demo：[astro.build/showcase](https://astro.build/showcase)
 
-![SCG GitHub withastro astro](https://cdn.jsdelivr.net/gh/shenjuexiao/shenjuexiao@main/GitHub_png/SCG_GitHub_withastro_astro.png)
+![SCG GitHub withastro astro](https://cdn.jsdelivr.net/gh/shenjuexiao/shenjuexiao@main/github_png/scg_github_withastro_astro.png)
 
 ## 🐈 C
 
 ### CodeSmith
 - 技术栈：.NET，C#
-- 官方网站：[codesmithtools.com](https://www.codesmithtools.com)
+- 官方网站：[codesmithtools.com](https://codesmithtools.com)
 - 项目地址：商业软件
-- Demo：[codesmithtools.com/generator](https://www.codesmithtools.com/generator)
+- Demo：[codesmithtools.com/generator](https://codesmithtools.com/generator)
 
 ## 🐕 D
 
@@ -42,19 +42,19 @@
 - 项目地址：[github.com/facebook/docusaurus](https://github.com/facebook/docusaurus)
 - Demo：[docusaurus.io/showcase](https://docusaurus.io/showcase)
 
-![SCG GitHub facebook docusaurus](https://cdn.jsdelivr.net/gh/shenjuexiao/shenjuexiao@main/GitHub_png/SCG_GitHub_facebook_docusaurus.png)
+![SCG GitHub facebook docusaurus](https://cdn.jsdelivr.net/gh/shenjuexiao/shenjuexiao@main/github_png/scg_github_facebook_docusaurus.png)
 
 ## 🐘 E
 
 ### Eleventy
 
 技术栈：Node.js
-官方网站：[11ty.dev](https://www.11ty.dev)
+官方网站：[11ty.dev](https://11ty.dev)
 项目地址：[github.com/11ty/eleventy](https://github.com/11ty/eleventy)
 模板演示：[eleventy-simple.pages.dev](https://eleventy-simple.pages.dev)
-插件演示： [fastcomments.com/commenting-system-for-11ty](https://fastcomments.com/commenting-system-for-11ty)
+插件演示：[fastcomments.com/commenting-system-for-11ty](https://fastcomments.com/commenting-system-for-11ty)
 
-![SCG GitHub 11ty/buildawesome](https://cdn.jsdelivr.net/gh/shenjuexiao/shenjuexiao@main/GitHub_png/SCG_GitHub_11ty_buildawesome.png)
+![SCG GitHub 11ty/buildawesome](https://cdn.jsdelivr.net/gh/shenjuexiao/shenjuexiao@main/github_png/scg_github_11ty_buildawesome.png)
 
 ### Excalidraw (手绘风格 + AI)
 - 技术栈：TypeScript，React
@@ -66,17 +66,17 @@
 
 ### Figma to Code (AI插件)
 - 技术栈：Figma API，AI
-- 官方网站：[figma.com/community/plugins](https://www.figma.com/community/plugins)
+- 官方网站：[figma.com/community/plugins](https://figma.com/community/plugins)
 - 项目地址：搜索Figma to HTML等关键词
-- Demo：[figma.com/community/plugins/1024120532071138593](https://www.figma.com/community/plugins/1024120532071138593)
+- Demo：[figma.com/community/plugins/1024120532071138593](https://figma.com/community/plugins/1024120532071138593)
 
 ## 🐐 G
 
 ### Gatsby
 - 技术栈：React，GraphQL
-- 官方网站：[gatsbyjs.com](https://www.gatsbyjs.com)
+- 官方网站：[gatsbyjs.com](https://gatsbyjs.com)
 - 项目地址：[github.com/gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby)
-- Demo：[gatsbyjs.com/starters](https://www.gatsbyjs.com/starters)
+- Demo：[gatsbyjs.com/starters](https://gatsbyjs.com/starters)
 
 ### GitHub Copilot
 - 技术栈：多种编程语言，AI
@@ -92,7 +92,7 @@
 - 项目地址：[github.com/hexojs/hexo](https://github.com/hexojs/hexo)
 - Demo：[hexo.io/showcase](https://hexo.io/showcase)
 
-![github.com/hexojs/hexo](https://cdn.jsdelivr.net/gh/shenjuexiao/shenjuexiao@main/GitHub_png/SCG_GitHub_hexojs_hexo.png)
+![github.com/hexojs/hexo](https://cdn.jsdelivr.net/gh/shenjuexiao/shenjuexiao@main/github_png/scg_github_hexojs_hexo.png)
 
 ### Hugo
 - 技术栈：Go
@@ -100,7 +100,7 @@
 - 项目地址：[github.com/gohugoio/hugo](https://github.com/gohugoio/hugo)
 - Demo：[gohugo.io/showcase](https://gohugo.io/showcase)
 
-![github.com/gohugoio/hugo](https://cdn.jsdelivr.net/gh/shenjuexiao/shenjuexiao@main/GitHub_png/SCG_GitHub_gohugoio_hugo.png)
+![github.com/gohugoio/hugo](https://cdn.jsdelivr.net/gh/shenjuexiao/shenjuexiao@main/github_png/scg_github_gohugoio_hugo.png)
 
 ## 🃏 J
 
@@ -123,7 +123,7 @@
 ### OpenAPI Generator
 - 技术栈：Java，OpenAPI
 - 官方网站：[openapi-generator.tech](https://openapi-generator.tech)
-- 项目地址：[github.com/OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator)
+- 项目地址：[github.com/openapitools/openapi-generator](https://github.com/openapitools/openapi-generator)
 - Demo：[openapi-generator.tech/docs/online](https://openapi-generator.tech/docs/online)
 
 ## 🐧 P
@@ -132,7 +132,7 @@
 - 技术栈：Python
 - 官方网站：[getpelican.com](https://getpelican.com)
 - 项目地址：[github.com/getpelican/pelican](https://github.com/getpelican/pelican)
-- Demo：[github.com/getpelican/pelican/wiki/Powered-by-Pelican](https://github.com/getpelican/pelican/wiki/Powered-by-Pelican)
+- Demo：[github.com/getpelican/pelican/wiki/powered-by-pelican](https://github.com/getpelican/pelican/wiki/powered-by-pelican)
 
 ## 🐍 S
 
@@ -170,15 +170,15 @@
 - 项目地址：[github.com/vuejs/vuepress](https://github.com/vuejs/vuepress)
 - Demo：[vuepress.vuejs.org/guide](https://vuepress.vuejs.org/guide)
 
-![SCG GitHub vuejs vuepress](https://cdn.jsdelivr.net/gh/shenjuexiao/shenjuexiao@main/GitHub_png/SCG_GitHub_vuejs_vuepress.png)
+![SCG GitHub vuejs vuepress](https://cdn.jsdelivr.net/gh/shenjuexiao/shenjuexiao@main/github_png/scg_github_vuejs_vuepress.png)
 
 ## 🦓 Z
 
 ### Zola
 - 技术栈：Rust
-- 官方网站：[getzola.org](https://www.getzola.org)
+- 官方网站：[getzola.org](https://getzola.org)
 - 项目地址：[github.com/getzola/zola](https://github.com/getzola/zola)
-- Demo：[getzola.org/documentation](https://www.getzola.org/documentation)
+- Demo：[getzola.org/documentation](https://getzola.org/documentation)
 
-![SCG GitHub getzola zola](https://cdn.jsdelivr.net/gh/shenjuexiao/shenjuexiao@main/GitHub_png/SCG_GitHub_getzola_zola.png)
+![SCG GitHub getzola zola](https://cdn.jsdelivr.net/gh/shenjuexiao/shenjuexiao@main/github_png/scg_github_getzola_zola.png)
 
