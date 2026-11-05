@@ -26,6 +26,14 @@
 
 ![SCG GitHub withastro astro](https://cdn.jsdelivr.net/gh/shenjuexiao/shenjuexiao@main/github_png/scg_github_withastro_astro.png)
 
+### Astro Starlight
+- 技术栈：Astro 文档主题框架
+- 官方网站：[starlight.astro.build](https://starlight.astro.build)
+- 项目地址：[github.com/withastro/starlight](https://github.com/withastro/starlight)
+- Demo：[starlight.astro.build/showcase](https://starlight.astro.build/showcase)
+
+![SCG GitHub withastro starlight](https://cdn.jsdelivr.net/gh/shenjuexiao/shenjuexiao@main/github_png/scg_github_withastro_starlight.png)
+
 ## 🐈 C
 
 ### CodeSmith
